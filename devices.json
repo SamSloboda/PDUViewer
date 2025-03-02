@@ -4,7 +4,7 @@
       "id": "flexa-dyn",
       "name": "Flexa Dyn",
       "modelPath": "products/2310006_Flexa_Dyn_v.01.02.glb",
-      "thumbnail": "poster.webp",
+      "thumbnail": "products/2310006_Flexa_Dyn_v.01.02.webp",
       "description": "Flexa Dynamic Power Distribution Unit",
       "specifications": {
         "type": "Dynamic PDU",
@@ -20,7 +20,7 @@
       "id": "dac-kit",
       "name": "DAC Kit",
       "modelPath": "products/913xxx-DACxx-KIT.glb",
-      "thumbnail": "poster.webp",
+      "thumbnail": "products/913xxx-DACxx-KIT.webp",
       "description": "DAC Series Power Distribution Kit",
       "specifications": {
         "type": "PDU Kit",
@@ -36,7 +36,7 @@
       "id": "tlc",
       "name": "TLC Series",
       "modelPath": "products/968xxx-TLC xxx.glb",
-      "thumbnail": "poster.webp",
+      "thumbnail": "products/968xxx-TLC xxx.webp",
       "description": "TLC Series Power Management System",
       "specifications": {
         "type": "Power Management",
@@ -49,50 +49,18 @@
       }
     },
     {
-      "id": "tlc",
-      "name": "TLC Series",
-      "modelPath": "products/968xxx-TLC xxx.glb",
-      "thumbnail": "poster.webp",
-      "description": "TLC Series Power Management System",
+      "id": "test-device",
+      "name": "Test Device",
+      "modelPath": "products/2310006_Flexa_Dyn_v.01.02.glb",
+      "thumbnail": "products/SRS_power.webp",
+      "description": "Testovacie zariadenie pre overenie funkčnosti",
       "specifications": {
-        "type": "Power Management",
+        "type": "Test PDU",
         "category": "SRS Power",
         "features": [
-          "Advanced TLC Technology",
-          "Intelligent Power Control",
-          "System Integration"
-        ]
-      }
-    },
-    {
-      "id": "tlc",
-      "name": "TLC Series",
-      "modelPath": "products/968xxx-TLC xxx.glb",
-      "thumbnail": "poster.webp",
-      "description": "TLC Series Power Management System",
-      "specifications": {
-        "type": "Power Management",
-        "category": "SRS Power",
-        "features": [
-          "Advanced TLC Technology",
-          "Intelligent Power Control",
-          "System Integration"
-        ]
-      }
-    },
-    {
-      "id": "tlc",
-      "name": "TLC Series",
-      "modelPath": "products/968xxx-TLC xxx.glb",
-      "thumbnail": "poster.webp",
-      "description": "TLC Series Power Management System",
-      "specifications": {
-        "type": "Power Management",
-        "category": "SRS Power",
-        "features": [
-          "Advanced TLC Technology",
-          "Intelligent Power Control",
-          "System Integration"
+          "Testovacia funkcia 1",
+          "Testovacia funkcia 2",
+          "Testovacia funkcia 3"
         ]
       }
     }

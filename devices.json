@@ -1,0 +1,100 @@
+{
+  "devices": [
+    {
+      "id": "flexa-dyn",
+      "name": "Flexa Dyn",
+      "modelPath": "products/2310006_Flexa_Dyn_v.01.02.glb",
+      "thumbnail": "poster.webp",
+      "description": "Flexa Dynamic Power Distribution Unit",
+      "specifications": {
+        "type": "Dynamic PDU",
+        "category": "SRS Power",
+        "features": [
+          "Flexible Power Distribution",
+          "Dynamic Load Management",
+          "Advanced Monitoring"
+        ]
+      }
+    },
+    {
+      "id": "dac-kit",
+      "name": "DAC Kit",
+      "modelPath": "products/913xxx-DACxx-KIT.glb",
+      "thumbnail": "poster.webp",
+      "description": "DAC Series Power Distribution Kit",
+      "specifications": {
+        "type": "PDU Kit",
+        "category": "SRS Power",
+        "features": [
+          "Power Distribution",
+          "Integrated DAC System",
+          "Modular Design"
+        ]
+      }
+    },
+    {
+      "id": "tlc",
+      "name": "TLC Series",
+      "modelPath": "products/968xxx-TLC xxx.glb",
+      "thumbnail": "poster.webp",
+      "description": "TLC Series Power Management System",
+      "specifications": {
+        "type": "Power Management",
+        "category": "SRS Power",
+        "features": [
+          "Advanced TLC Technology",
+          "Intelligent Power Control",
+          "System Integration"
+        ]
+      }
+    },
+    {
+      "id": "tlc",
+      "name": "TLC Series",
+      "modelPath": "products/968xxx-TLC xxx.glb",
+      "thumbnail": "poster.webp",
+      "description": "TLC Series Power Management System",
+      "specifications": {
+        "type": "Power Management",
+        "category": "SRS Power",
+        "features": [
+          "Advanced TLC Technology",
+          "Intelligent Power Control",
+          "System Integration"
+        ]
+      }
+    },
+    {
+      "id": "tlc",
+      "name": "TLC Series",
+      "modelPath": "products/968xxx-TLC xxx.glb",
+      "thumbnail": "poster.webp",
+      "description": "TLC Series Power Management System",
+      "specifications": {
+        "type": "Power Management",
+        "category": "SRS Power",
+        "features": [
+          "Advanced TLC Technology",
+          "Intelligent Power Control",
+          "System Integration"
+        ]
+      }
+    },
+    {
+      "id": "tlc",
+      "name": "TLC Series",
+      "modelPath": "products/968xxx-TLC xxx.glb",
+      "thumbnail": "poster.webp",
+      "description": "TLC Series Power Management System",
+      "specifications": {
+        "type": "Power Management",
+        "category": "SRS Power",
+        "features": [
+          "Advanced TLC Technology",
+          "Intelligent Power Control",
+          "System Integration"
+        ]
+      }
+    }
+  ]
+} 

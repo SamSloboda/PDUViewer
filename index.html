@@ -5,28 +5,45 @@
     <meta charset="utf-8">
     <meta name="description" content="&lt;model-viewer&gt; template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link type="text/css" href="/PDUViewer/styles.css" rel="stylesheet"/>
+    <script>
+      // Determine if we're running on GitHub Pages or locally
+      const isGitHubPages = window.location.hostname.includes('github.io');
+      const basePath = isGitHubPages ? '/PDUViewer' : '';
+      document.write(`<link type="text/css" href="${basePath}/styles.css" rel="stylesheet"/>`);
+    </script>
     <link href="https://fonts.googleapis.com/css2?family=Purista:wght@400;700&display=swap" rel="stylesheet">
   </head>
   <body>
     <div class="header">
-      <img src="/PDUViewer/SRS_power.png" alt="SRS_POWER_LOGO" class="logo">
+      <script>
+        document.write(`<img src="${basePath}/SRS_power.png" alt="SRS_POWER_LOGO" class="logo">`);
+      </script>
       <h1 class="title">PDU PORTFOLIO</h1>
     </div>
     <div class="container">
       <div class="model-section">
         <!-- <model-viewer> HTML element -->
-        <model-viewer id="active-model" src="/PDUViewer/products/2310006_Flexa_Dyn_v.01.02.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="/PDUViewer/poster.webp" shadow-intensity="1">
-          <div class="progress-bar hide" slot="progress-bar">
-              <div class="update-bar"></div>
-          </div>
-          <button slot="ar-button" id="ar-button">
-              View in your space
-          </button>
-          <div id="ar-prompt">
-              <img src="/PDUViewer/ar_hand_prompt.png">
-          </div>
-        </model-viewer>
+        <script>
+          document.write(`
+            <model-viewer id="active-model" 
+              src="${basePath}/products/2310006_Flexa_Dyn_v.01.02.glb" 
+              ar ar-modes="webxr scene-viewer quick-look" 
+              camera-controls 
+              tone-mapping="neutral" 
+              poster="${basePath}/poster.webp" 
+              shadow-intensity="1">
+              <div class="progress-bar hide" slot="progress-bar">
+                  <div class="update-bar"></div>
+              </div>
+              <button slot="ar-button" id="ar-button">
+                  View in your space
+              </button>
+              <div id="ar-prompt">
+                  <img src="${basePath}/ar_hand_prompt.png">
+              </div>
+            </model-viewer>
+          `);
+        </script>
       </div>
       <div class="carousel-section">
         <div class="carousel">
@@ -34,7 +51,9 @@
         </div>
       </div>
     </div>
-    <script src="/PDUViewer/script.js"></script>
+    <script>
+      document.write(`<script src="${basePath}/script.js"><\/script>`);
+    </script>
     <!-- Loads <model-viewer> for browsers: -->
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
   </body>

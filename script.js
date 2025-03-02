@@ -1,3 +1,7 @@
+// Determine if we're running on GitHub Pages or locally
+const isGitHubPages = window.location.hostname.includes('github.io');
+const basePath = isGitHubPages ? '/PDUViewer' : '';
+
 // Handles loading the events for <model-viewer>'s slotted progress bar
 const onProgress = (event) => {
   const progressBar = event.target.querySelector('.progress-bar');
@@ -18,7 +22,7 @@ modelViewer.addEventListener('progress', onProgress);
 async function loadDevices() {
   try {
     console.log('Začínam načítavať zariadenia...');
-    const response = await fetch('/PDUViewer/devices.json');
+    const response = await fetch(`${basePath}/devices.json`);
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -37,12 +41,16 @@ async function loadDevices() {
     data.devices.forEach((device, index) => {
       console.log('Vytváram položku pre:', device.name);
       
+      // Remove /PDUViewer prefix if it exists and add the correct base path
+      const thumbnailPath = device.thumbnail.replace('/PDUViewer/', '');
+      const modelPath = device.modelPath.replace('/PDUViewer/', '');
+      
       const item = document.createElement('div');
       item.className = 'carousel-item';
       if (index === 0) item.classList.add('selected');
       
       item.innerHTML = `
-        <img src="${device.thumbnail}" alt="${device.name}">
+        <img src="${basePath}/${thumbnailPath}" alt="${device.name}">
         <h3>${device.name}</h3>
         <p class="device-description">${device.description}</p>
         <div class="device-specs">
@@ -59,8 +67,8 @@ async function loadDevices() {
       // Add click event listener
       item.addEventListener('click', () => {
         console.log('Kliknuté na:', device.name);
-        console.log('Načítavam model:', device.modelPath);
-        modelViewer.src = device.modelPath;
+        console.log('Načítavam model:', modelPath);
+        modelViewer.src = `${basePath}/${modelPath}`;
         // Highlight selected item
         document.querySelectorAll('.carousel-item').forEach(i => i.classList.remove('selected'));
         item.classList.add('selected');

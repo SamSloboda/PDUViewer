@@ -18,7 +18,7 @@ modelViewer.addEventListener('progress', onProgress);
 async function loadDevices() {
   try {
     console.log('Začínam načítavať zariadenia...');
-    const response = await fetch('./devices.json');
+    const response = await fetch('/PDUViewer/devices.json');
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }

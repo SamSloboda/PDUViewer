@@ -2,6 +2,11 @@
 const isGitHubPages = window.location.hostname.includes('github.io');
 const basePath = isGitHubPages ? '/PDUViewer' : '';
 
+// Helper function to clean paths
+function cleanPath(path) {
+  return path.replace('/PDUViewer/', '').replace(/^\/+/, '');
+}
+
 // Handles loading the events for <model-viewer>'s slotted progress bar
 const onProgress = (event) => {
   const progressBar = event.target.querySelector('.progress-bar');
@@ -22,7 +27,7 @@ modelViewer.addEventListener('progress', onProgress);
 async function loadDevices() {
   try {
     console.log('Začínam načítavať zariadenia...');
-    const response = await fetch(`${basePath}/devices.json`);
+    const response = await fetch(basePath + '/devices.json');
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -41,9 +46,9 @@ async function loadDevices() {
     data.devices.forEach((device, index) => {
       console.log('Vytváram položku pre:', device.name);
       
-      // Remove /PDUViewer prefix if it exists and add the correct base path
-      const thumbnailPath = device.thumbnail.replace('/PDUViewer/', '');
-      const modelPath = device.modelPath.replace('/PDUViewer/', '');
+      // Clean paths
+      const thumbnailPath = cleanPath(device.thumbnail);
+      const modelPath = cleanPath(device.modelPath);
       
       const item = document.createElement('div');
       item.className = 'carousel-item';

@@ -1,15 +1,18 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>&lt;model-viewer&gt; template</title>
+    <title>PDU Portfolio - SRS Power</title>
     <meta charset="utf-8">
-    <meta name="description" content="&lt;model-viewer&gt; template">
+    <meta name="description" content="PDU Portfolio showcasing SRS Power products">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script>
       // Determine if we're running on GitHub Pages or locally
       window.isGitHubPages = window.location.hostname.includes('github.io');
       window.basePath = window.isGitHubPages ? '/PDUViewer' : '';
-      document.write(`<link type="text/css" href="${window.basePath}/styles.css" rel="stylesheet"/>`);
+      document.write(`
+        <link rel="icon" type="image/png" href="${window.basePath}/SRS_power.png">
+        <link type="text/css" href="${window.basePath}/styles.css" rel="stylesheet"/>
+      `);
     </script>
     <link href="https://fonts.googleapis.com/css2?family=Purista:wght@400;700&display=swap" rel="stylesheet">
   </head>

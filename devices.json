@@ -52,7 +52,7 @@
       "id": "test-device",
       "name": "Test Device",
       "modelPath": "/PDUViewer/products/2310006_Flexa_Dyn_v.01.02.glb",
-      "thumbnail": "/PDUViewer/SRS_power.webp",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
       "description": "Testovacie zariadenie pre overenie funkčnosti",
       "specifications": {
         "type": "Test PDU",

@@ -1,0 +1,1074 @@
+{
+  "devices": [
+    {
+      "id": "flexa-dyn",
+      "name": "Flexa Dyn",
+      "modelPath": "/PDUViewer/products/2310006_Flexa_Dyn_v.01.02.glb",
+      "thumbnail": "/PDUViewer/products/2310006_Flexa_Dyn_v.01.02.webp",
+      "description": "Flexa Dynamic Power Distribution Unit",
+      "specifications": {
+        "type": "Dynamic PDU",
+        "category": "SRS Power",
+        "features": [
+          "Flexible Power Distribution",
+          "Dynamic Load Management",
+          "Advanced Monitoring"
+        ]
+      }
+    },
+    {
+      "id": "dac-kit",
+      "name": "DAC Kit",
+      "modelPath": "/PDUViewer/products/913xxx-DACxx-KIT.glb",
+      "thumbnail": "/PDUViewer/products/913xxx-DACxx-KIT.webp",
+      "description": "DAC Series Power Distribution Kit",
+      "specifications": {
+        "type": "PDU Kit",
+        "category": "SRS Power",
+        "features": [
+          "Power Distribution",
+          "Integrated DAC System",
+          "Modular Design"
+        ]
+      }
+    },
+    {
+      "id": "tlc",
+      "name": "TLC Series",
+      "modelPath": "/PDUViewer/products/968xxx-TLC xxx.glb",
+      "thumbnail": "/PDUViewer/products/968xxx-TLC xxx.webp",
+      "description": "TLC Series Power Management System",
+      "specifications": {
+        "type": "Power Management",
+        "category": "SRS Power",
+        "features": [
+          "Advanced TLC Technology",
+          "Intelligent Power Control",
+          "System Integration"
+        ]
+      }
+    },
+    {
+      "id": "test-device",
+      "name": "Test Device",
+      "modelPath": "/PDUViewer/products/2310006_Flexa_Dyn_v.01.02.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "Testovacie zariadenie pre overenie funkčnosti",
+      "specifications": {
+        "type": "Test PDU",
+        "category": "SRS Power",
+        "features": [
+          "Testovacia funkcia 1",
+          "Testovacia funkcia 2",
+          "Testovacia funkcia 3"
+        ]
+      }
+    },
+    {
+      "id": "922690-PDU63HYMAG-IP54",
+      "name": "PDU63HYMAG-IP54",
+      "modelPath": "/PDUViewer/products/922690-PDU63HYMAG-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x CEE32/5, 4x Harting, 18x Schuko German",
+      "specifications": {
+        "type": "IP54",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "ELR"
+        ]
+      }
+    },
+    {
+      "id": "922196-PDU63T4C3SCRGU-IP54",
+      "name": "PDU63T4C3SCRGU-IP54",
+      "modelPath": "/PDUViewer/products/922196-PDU63T4C3SCRGU-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x CEE, 3x Schuko German",
+      "specifications": {
+        "type": "IP54",
+        "category": "63A",
+        "features": [
+          "THRU output",
+          "All outputs have their own RCD",
+          "ELR"
+        ]
+      }
+    },
+    {
+      "id": "922299-PDU63T4C6SFR-IP54",
+      "name": "PDU63T4C6SFR-IP54",
+      "modelPath": "/PDUViewer/products/922299-PDU63T4C6SFR-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x CEE, 6x Schuko French",
+      "specifications": {
+        "type": "IP54",
+        "category": "63A",
+        "features": [
+          "THRU output",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922900-PDU635C12SFPRE-IP54",
+      "name": "PDU635C12SFPRE-IP54",
+      "modelPath": "/PDUViewer/products/922900-PDU635C12SFPRE-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "5x CEE, 12x Schuko French",
+      "specifications": {
+        "type": "IP54",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922570-PDU631C3X12SCPR-IP54",
+      "name": "PDU631C3X12SCPR-IP54",
+      "modelPath": "/PDUViewer/products/922570-PDU631C3X12SCPR-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x CEE, 3x Socapex, 12x Schuko German",
+      "specifications": {
+        "type": "IP54",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922461-PDU1259CP-IP54",
+      "name": "PDU1259CP-IP54",
+      "modelPath": "/PDUViewer/products/922461-PDU1259CP-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "9x CEE",
+      "specifications": {
+        "type": "IP54",
+        "category": "125A",
+        "features": [
+          "Power meter"
+        ]
+      }
+    },
+    {
+      "id": "922825-PDU634H1SCR-IP54",
+      "name": "PDU634H1SCR-IP54",
+      "modelPath": "/PDUViewer/products/922825-PDU634H1SCR-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x Harting, 1x Schuko German",
+      "specifications": {
+        "type": "IP54",
+        "category": "63A",
+        "features": [
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922526-PDU322XPR-IP54",
+      "name": "PDU322XPR-IP54",
+      "modelPath": "/PDUViewer/products/922526-PDU322XPR-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x Socapex",
+      "specifications": {
+        "type": "IP54",
+        "category": "32A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922820-PDU634C6SFR-IP54",
+      "name": "PDU634C6SFR-IP54",
+      "modelPath": "/PDUViewer/products/922820-PDU634C6SFR-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x CEE, 6x Schuko French",
+      "specifications": {
+        "type": "IP54",
+        "category": "63A",
+        "features": [
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922901-PDU322C6SFPRE-IP54",
+      "name": "PDU322C6SFPRE-IP54",
+      "modelPath": "/PDUViewer/products/922901-PDU322C6SFPRE-IP54.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x CEE, 6x Schuko French",
+      "specifications": {
+        "type": "IP54",
+        "category": "32A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922671-PDU400T12H4C6SFPR-29U",
+      "name": "PDU400T12H4C6SFPR-29U",
+      "modelPath": "/PDUViewer/products/922671-PDU400T12H4C6SFPR-29U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "12x Harting, 4x CEE, 6x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922670-PDU400T14C6SFPRE-29U",
+      "name": "PDU400T14C6SFPRE-29U",
+      "modelPath": "/PDUViewer/products/922670-PDU400T14C6SFPRE-29U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "14x CEE, 6x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922186-PDU400T12C9H6SCPR-29U",
+      "name": "PDU400T12C9H6SCPR-29U",
+      "modelPath": "/PDUViewer/products/922186-PDU400T12C9H6SCPR-29U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "12x CEE, 9x Harting, 6x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922930-PDU400T24CPAR-27U",
+      "name": "PDU400T24CPAR-27U",
+      "modelPath": "/PDUViewer/products/922930-PDU400T24CPAR-27U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "24x CEE",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "Amp-meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922942-PDU400T3C12H6SCPR-24U",
+      "name": "PDU400T3C12H6SCPR-24U",
+      "modelPath": "/PDUViewer/products/922942-PDU400T3C12H6SCPR-24U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "3x CEE, 12x Harting, 6x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922776-PDU400T13C1SFPELR-24U",
+      "name": "PDU400T13C1SFPELR-24U",
+      "modelPath": "/PDUViewer/products/922776-PDU400T13C1SFPELR-24U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "13x CEE, 1x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "ELR"
+        ]
+      }
+    },
+    {
+      "id": "922274-PDU400T12SX3S3TPR-24U",
+      "name": "PDU400T12SX3S3TPR-24U",
+      "modelPath": "/PDUViewer/products/922274-PDU400T12SX3S3TPR-24U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "12x Socapex, 3x Schuko German, 3x NAC3FPX-TOP",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922707-PDU400T18C3SFPR-21U",
+      "name": "PDU400T18C3SFPR-21U",
+      "modelPath": "/PDUViewer/products/922707-PDU400T18C3SFPR-21U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "18x CEE, 3x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922466-PDU250T6C6SFPRE-21U",
+      "name": "PDU250T6C6SFPRE-21U",
+      "modelPath": "/PDUViewer/products/922466-PDU250T6C6SFPRE-21U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x CEE, 6x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "250A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922176-PDU250T1W8SX3C3SAPRE-18U",
+      "name": "PDU250T1W8SX3C3SAPRE-18U",
+      "modelPath": "/PDUViewer/products/922176-PDU250T1W8SX3C3SAPRE-18U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x Wilco, 8x Socapex, 3x CEE16/3, 6x Schuko Australian",
+      "specifications": {
+        "type": "RACK",
+        "category": "250A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922960-PDU400GLASS-18U",
+      "name": "PDU400GLASS-18U",
+      "modelPath": "/PDUViewer/products/922960-PDU400GLASS-18U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x CEE125/5, 2x CEE63/5, 3x CEE32/5, 6x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922761-PDU400T13C3SCPRE-18U",
+      "name": "PDU400T13C3SCPRE-18U",
+      "modelPath": "/PDUViewer/products/922761-PDU400T13C3SCPRE-18U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "13x CEE, 3x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922377-PDU250T8C8SFPRE-18U",
+      "name": "PDU250T8C8SFPRE-18U",
+      "modelPath": "/PDUViewer/products/922377-PDU250T8C8SFPRE-18U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "8x CEE, 8x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "250A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922339-PDU400T10C6SFP-18U",
+      "name": "PDU400T10C6SFP-18U",
+      "modelPath": "/PDUViewer/products/922339-PDU400T10C6SFP-18U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "10x CEE, 6x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter"
+        ]
+      }
+    },
+    {
+      "id": "922176-PDU250T1W8SX3C3SAPRE-18U",
+      "name": "PDU250T1W8SX3C3SAPRE-18U",
+      "modelPath": "/PDUViewer/products/922176-PDU250T1W8SX3C3SAPRE-18U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x Wilco, 8x Socapex, 3x CEE, 3x Schuko Australian",
+      "specifications": {
+        "type": "RACK",
+        "category": "250A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922931-PDU400T7C2SCPRE-15U",
+      "name": "PDU400T7C2SCPRE-15U",
+      "modelPath": "/PDUViewer/products/922931-PDU400T7C2SCPRE-15U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "7x CEE, 2x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922760-PDU400T11C3PPE-15U",
+      "name": "PDU400T11C3PPE-15U",
+      "modelPath": "/PDUViewer/products/922760-PDU400T11C3PPE-15U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "11x CEE, 3x NAC3FPX-TOP",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922624-PDU1254SX51SFPRE-15U",
+      "name": "PDU1254SX51SFPRE-15U",
+      "modelPath": "/PDUViewer/products/922624-PDU1254SX51SFPRE-15U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x Socapex, 51x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922546-PDU1256C6SPRE-15U",
+      "name": "PDU1256C6SPRE-15U",
+      "modelPath": "/PDUViewer/products/922546-PDU1256C6SPRE-15U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x CEE, 6x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922189-PDU250T5C9SXPRE-15U",
+      "name": "PDU250T5C9SXPRE-15U",
+      "modelPath": "/PDUViewer/products/922189-PDU250T5C9SXPRE-15U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "5x CEE, 9x Socapex",
+      "specifications": {
+        "type": "RACK",
+        "category": "250A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922179-PDU400T2W14C6SAPR-15U",
+      "name": "PDU400T2W14C6SAPR-15U",
+      "modelPath": "/PDUViewer/products/922179-PDU400T2W14C6SAPR-15U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x Wilco, 14x CEE, 6x Schuko Australian",
+      "specifications": {
+        "type": "RACK",
+        "category": "400A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922935-PDU1251C6H7SCPR-12U",
+      "name": "PDU1251C6H7SCPR-12U",
+      "modelPath": "/PDUViewer/products/922935-PDU1251C6H7SCPR-12U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x CEE, 6x Harting, 7x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922714-PDU1251C8H6SCPR-12U",
+      "name": "PDU1251C8H6SCPR-12U",
+      "modelPath": "/PDUViewer/products/922714-PDU1251C8H6SCPR-12U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x CEE, 8x Harting, 6x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922712-PDU1252C6X15SFPR-12U",
+      "name": "PDU1252C6X15SFPR-12U",
+      "modelPath": "/PDUViewer/products/922712-PDU1252C6X15SFPR-12U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x CEE, 6x Socapex, 15x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922641-PDU1256H6SCPR-12U",
+      "name": "PDU1256H6SCPR-12U",
+      "modelPath": "/PDUViewer/products/922641-PDU1256H6SCPR-12U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x Harting, 6x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922378-PDU638C3SCP-12U",
+      "name": "PDU638C3SCP-12U",
+      "modelPath": "/PDUViewer/products/922378-PDU638C3SCP-12U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "8x CEE, 3x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter"
+        ]
+      }
+    },
+    {
+      "id": "922205-PDU1256W3SAPR-12U",
+      "name": "PDU1256W3SAPR-12U",
+      "modelPath": "/PDUViewer/products/922205-PDU1256W3SAPR-12U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x Wilco, 3x Schuko Australian",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922187-PDU125T9C6SFPR-12U",
+      "name": "PDU125T9C6SFPR-12U",
+      "modelPath": "/PDUViewer/products/922187-PDU125T9C6SFPR-12U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "9x CEE, 6x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922849-PDU634X24SCPRDY-9U",
+      "name": "PDU634X24SCPRDY-9U",
+      "modelPath": "/PDUViewer/products/922849-PDU634X24SCPRDY-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x Socapex, 24x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD",
+          "Delta-Star PDU"
+        ]
+      }
+    },
+    {
+      "id": "922689-PDU63T2C4X24SCP-9U",
+      "name": "PDU63T2C4X24SCP-9U",
+      "modelPath": "/PDUViewer/products/922689-PDU63T2C4X24SCP-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x CEE, 4x Socapex, 24x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "THRU output",
+          "Power meter"
+        ]
+      }
+    },
+    {
+      "id": "922685-PDU636C2X12SFPR-9U",
+      "name": "PDU636C2X12SFPR-9U",
+      "modelPath": "/PDUViewer/products/922685-PDU636C2X12SFPR-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x CEE, 2x Socapex, 12x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922682-PDU631C4H12SCPR-9U",
+      "name": "PDU631C4H12SCPR-9U",
+      "modelPath": "/PDUViewer/products/922682-PDU631C4H12SCPR-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x CEE, 4x Harting, 12x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922680-PDU1256H3SCPRCBO-9U",
+      "name": "PDU1256H3SCPRCBO-9U",
+      "modelPath": "/PDUViewer/products/922680-PDU1256H3SCPRCBO-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x Harting, 3x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922480-PDU1256CPR-9U",
+      "name": "PDU1256CPR-9U",
+      "modelPath": "/PDUViewer/products/922480-PDU1256CPR-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x CEE",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922375-PDU631C32S4HP-9U",
+      "name": "PDU631C32S4HP-9U",
+      "modelPath": "/PDUViewer/products/922375-PDU631C32S4HP-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x CEE, 32x Schuko German, 4x Harting",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter"
+        ]
+      }
+    },
+    {
+      "id": "922240-PDU1256H3SCPR-9U",
+      "name": "PDU1256H3SCPR-9U",
+      "modelPath": "/PDUViewer/products/922240-PDU1256H3SCPR-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x Harting, 4x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922221-PDU1256W4SAPRE-9U",
+      "name": "PDU1256W4SAPRE-9U",
+      "modelPath": "/PDUViewer/products/922221-PDU1256W4SAPRE-9U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "6x Wilco, 4x Schuko Australian",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922841-PDU634X24SCPR-6U",
+      "name": "PDU634X24SCPR-6U",
+      "modelPath": "/PDUViewer/products/922818-PDU634H1SCPPR-6U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x Socapex, 24x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922818-PDU634H1SCPPR-6U",
+      "name": "PDU634H1SCPPR-6U",
+      "modelPath": "/PDUViewer/products/922818-PDU634H1SCPPR-6U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x Harting, 1x Schuko German, 12x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922782-PDU634C2X12SFPR-6U",
+      "name": "PDU634C2X12SFPR-6U",
+      "modelPath": "/PDUViewer/products/922782-PDU634C2X12SFPR-6U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x CEE32/5, 2x Socapex, 12x Schuko French",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922755-PDU1258C-6U",
+      "name": "PDU1258C-6U",
+      "modelPath": "/PDUViewer/products/922755-PDU1258C-6U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "8x CEE16/5",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          ""
+        ]
+      }
+    },
+    {
+      "id": "922551-PDU638C4PPRE-6U",
+      "name": "PDU638C4PPRE-6U",
+      "modelPath": "/PDUViewer/products/922551-PDU638C4PPRE-6U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "8x CEE16/5, 4x NAC3FPX-TOP",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922550-PDU631C4X24PPRE-6U",
+      "name": "PDU631C4X24PPRE-6U",
+      "modelPath": "/PDUViewer/products/922550-PDU631C4X24PPRE-6U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x CEE32/5, 4x Socapex, 24x NAC3FPX-TOP",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD",
+          "E-STOP"
+        ]
+      }
+    },
+    {
+      "id": "922947-PDU32T1C6SC6PPRU-4U",
+      "name": "PDU32T1C6SC6PPRU-4U",
+      "modelPath": "/PDUViewer/products/922947-PDU32T1C6SC6PPRU-4U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x CEE, 6x Schuko German, 6x NAC3FPX-TOP",
+      "specifications": {
+        "type": "RACK",
+        "category": "32A",
+        "features": [
+          "THRU output",
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922657-PDU32T2H6SCR-4U",
+      "name": "PDU32T2H6SCR-4U",
+      "modelPath": "/PDUViewer/products/922657-PDU32T2H6SCR-4U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x Harting, 6x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "32A",
+        "features": [
+          "THRU output",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922948-PDU632C1SCPR-3U",
+      "name": "PDU632C1SCPR-3U",
+      "modelPath": "/PDUViewer/products/922948-PDU632C1SCPR-3U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "1x CEE, 1x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922936-PDU63T1216ELST-3U",
+      "name": "PDU63T1216ELST-3U",
+      "modelPath": "/PDUViewer/products/922936-PDU63T1216ELST-3U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "12x 16A Wago outputs, snap-in terminal",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "THRU output",
+          "E-STOP link"
+        ]
+      }
+    },
+    {
+      "id": "922748-PDU324C2SXPR-3U",
+      "name": "PDU324C2SXPR-3U",
+      "modelPath": "/PDUViewer/products/922748-PDU324C2SXPR-3U.glb",
+      "thumbnail": "/PDUViewer/products/9SRS_power.webp",
+      "description": "4x CEE, 2x Socapex",
+      "specifications": {
+        "type": "RACK",
+        "category": "32A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922632-PDU632SX12SCPR-3U",
+      "name": "PDU632SX12SCPR-3U",
+      "modelPath": "/PDUViewer/products/922632-PDU632SX12SCPR-3U.glb",
+      "thumbnail": "/PDUViewer/products/9SRS_power.webp",
+      "description": "2x Socapex, 12x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "63A",
+        "features": [
+          "Power meter",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922606-PDU1253CP-3U",
+      "name": "PDU1253CP-3U",
+      "modelPath": "/PDUViewer/products/922606-PDU1253CP-3U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "3x CEE",
+      "specifications": {
+        "type": "RACK",
+        "category": "125A",
+        "features": [
+          "Power meter"
+        ]
+      }
+    },
+    {
+      "id": "922568-PDU32T2H1SCR-3U",
+      "name": "PDU32T2H1SCR-3U",
+      "modelPath": "/PDUViewer/products/922568-PDU32T2H1SCR-3U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x Harting, 1x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "32A",
+        "features": [
+          "THRU output",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922952-PDU32T2C2SCR-2U",
+      "name": "PDU32T2C2SCR-2U",
+      "modelPath": "/PDUViewer/products/922952-PDU32T2C2SCR-2U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "2x CEE, 2x Schuko German",
+      "specifications": {
+        "type": "RACK",
+        "category": "32A",
+        "features": [
+          "THRU output",
+          "All outputs have their own RCD"
+        ]
+      }
+    },
+    {
+      "id": "922340-PDU16T4S8EI-2U",
+      "name": "PDU16T4S8EI-2U",
+      "modelPath": "/PDUViewer/products/922340-PDU16T4S8EI-2U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x Schuko German, 8x EURO IEC 10A",
+      "specifications": {
+        "type": "RACK",
+        "category": "16A",
+        "features": [
+          "THRU output"
+        ]
+      }
+    },
+    {
+      "id": "922277-PDU32T7SW-2U",
+      "name": "PDU32T7SW-2U",
+      "modelPath": "/PDUViewer/products/922277-PDU32T7SW-2U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "7x Socket T23 Swiss",
+      "specifications": {
+        "type": "RACK",
+        "category": "32A",
+        "features": [
+          "THRU output"
+        ]
+      }
+    },
+    {
+      "id": "922207-PDU32T4SC2EI-2U",
+      "name": "PDU32T4SC2EI-2U",
+      "modelPath": "/PDUViewer/products/922207-PDU32T4SC2EI-2U.glb",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
+      "description": "4x Schuko German, 2x EURO IEC 10A",
+      "specifications": {
+        "type": "RACK",
+        "category": "32A",
+        "features": [
+          "THRU output",
+          "1x MCB C10/1",
+          "3x MCB C16/1"
+        ]
+      }
+    }
+  ]
+} 

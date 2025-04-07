@@ -8,7 +8,7 @@
       "description": "4x CEE32/5, 4x Harting, 18x Schuko German",
       "specifications": {
         "type": "IP54",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "ELR"
@@ -23,7 +23,7 @@
       "description": "4x CEE, 3x Schuko German",
       "specifications": {
         "type": "IP54",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "THRU output",
           "All outputs have their own RCD",
@@ -39,7 +39,7 @@
       "description": "4x CEE, 6x Schuko French",
       "specifications": {
         "type": "IP54",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "THRU output",
           "All outputs have their own RCD"
@@ -54,7 +54,7 @@
       "description": "5x CEE, 12x Schuko French",
       "specifications": {
         "type": "IP54",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD",
@@ -70,7 +70,7 @@
       "description": "1x CEE, 3x Socapex, 12x Schuko German",
       "specifications": {
         "type": "IP54",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -85,7 +85,7 @@
       "description": "9x CEE",
       "specifications": {
         "type": "IP54",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter"
         ]
@@ -99,7 +99,7 @@
       "description": "4x Harting, 1x Schuko German",
       "specifications": {
         "type": "IP54",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "All outputs have their own RCD"
         ]
@@ -113,7 +113,7 @@
       "description": "2x Socapex",
       "specifications": {
         "type": "IP54",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -128,7 +128,7 @@
       "description": "4x CEE, 6x Schuko French",
       "specifications": {
         "type": "IP54",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "All outputs have their own RCD"
         ]
@@ -142,7 +142,7 @@
       "description": "2x CEE, 6x Schuko French",
       "specifications": {
         "type": "IP54",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "Power meter",
           "All outputs have their own RCD",
@@ -158,7 +158,7 @@
       "description": "12x Harting, 4x CEE, 6x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -174,7 +174,7 @@
       "description": "14x CEE, 6x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -191,7 +191,7 @@
       "description": "12x CEE, 9x Harting, 6x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -207,7 +207,7 @@
       "description": "24x CEE",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -224,7 +224,7 @@
       "description": "3x CEE, 12x Harting, 6x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -240,7 +240,7 @@
       "description": "13x CEE, 1x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -256,7 +256,7 @@
       "description": "12x Socapex, 3x Schuko German, 3x NAC3FPX-TOP",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -272,7 +272,7 @@
       "description": "18x CEE, 3x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -288,7 +288,7 @@
       "description": "6x CEE, 6x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "250A",
+        "input": "250A",
         "features": [
           "THRU output",
           "Power meter",
@@ -305,7 +305,7 @@
       "description": "1x Wilco, 8x Socapex, 3x CEE16/3, 6x Schuko Australian",
       "specifications": {
         "type": "RACK",
-        "category": "250A",
+        "input": "250A",
         "features": [
           "THRU output",
           "Power meter",
@@ -322,7 +322,7 @@
       "description": "2x CEE125/5, 2x CEE63/5, 3x CEE32/5, 6x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -339,7 +339,7 @@
       "description": "13x CEE, 3x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -356,7 +356,7 @@
       "description": "8x CEE, 8x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "250A",
+        "input": "250A",
         "features": [
           "THRU output",
           "Power meter",
@@ -373,7 +373,7 @@
       "description": "10x CEE, 6x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter"
@@ -388,7 +388,7 @@
       "description": "1x Wilco, 8x Socapex, 3x CEE, 3x Schuko Australian",
       "specifications": {
         "type": "RACK",
-        "category": "250A",
+        "input": "250A",
         "features": [
           "THRU output",
           "Power meter",
@@ -405,7 +405,7 @@
       "description": "7x CEE, 2x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -422,7 +422,7 @@
       "description": "11x CEE, 3x NAC3FPX-TOP",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -438,7 +438,7 @@
       "description": "4x Socapex, 51x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD",
@@ -454,7 +454,7 @@
       "description": "6x CEE, 6x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD",
@@ -470,7 +470,7 @@
       "description": "5x CEE, 9x Socapex",
       "specifications": {
         "type": "RACK",
-        "category": "250A",
+        "input": "250A",
         "features": [
           "THRU output",
           "Power meter",
@@ -487,7 +487,7 @@
       "description": "2x Wilco, 14x CEE, 6x Schuko Australian",
       "specifications": {
         "type": "RACK",
-        "category": "400A",
+        "input": "400A",
         "features": [
           "THRU output",
           "Power meter",
@@ -503,7 +503,7 @@
       "description": "1x CEE, 6x Harting, 7x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -518,7 +518,7 @@
       "description": "1x CEE, 8x Harting, 6x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -533,7 +533,7 @@
       "description": "2x CEE, 6x Socapex, 15x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -548,7 +548,7 @@
       "description": "6x Harting, 6x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -563,7 +563,7 @@
       "description": "8x CEE, 3x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter"
         ]
@@ -577,7 +577,7 @@
       "description": "6x Wilco, 3x Schuko Australian",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -592,7 +592,7 @@
       "description": "9x CEE, 6x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "THRU output",
           "Power meter",
@@ -608,7 +608,7 @@
       "description": "4x Socapex, 24x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD",
@@ -624,7 +624,7 @@
       "description": "2x CEE, 4x Socapex, 24x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "THRU output",
           "Power meter"
@@ -639,7 +639,7 @@
       "description": "6x CEE, 2x Socapex, 12x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -654,7 +654,7 @@
       "description": "1x CEE, 4x Harting, 12x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -669,7 +669,7 @@
       "description": "6x Harting, 3x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -684,7 +684,7 @@
       "description": "6x CEE",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -699,7 +699,7 @@
       "description": "1x CEE, 32x Schuko German, 4x Harting",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter"
         ]
@@ -713,7 +713,7 @@
       "description": "6x Harting, 4x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -728,7 +728,7 @@
       "description": "6x Wilco, 4x Schuko Australian",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter",
           "All outputs have their own RCD",
@@ -744,7 +744,7 @@
       "description": "4x Socapex, 24x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -759,7 +759,7 @@
       "description": "4x Harting, 1x Schuko German, 12x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -774,7 +774,7 @@
       "description": "4x CEE32/5, 2x Socapex, 12x Schuko French",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -789,7 +789,7 @@
       "description": "8x CEE16/5",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           ""
         ]
@@ -803,7 +803,7 @@
       "description": "8x CEE16/5, 4x NAC3FPX-TOP",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD",
@@ -819,7 +819,7 @@
       "description": "1x CEE32/5, 4x Socapex, 24x NAC3FPX-TOP",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD",
@@ -835,7 +835,7 @@
       "description": "1x CEE, 6x Schuko German, 6x NAC3FPX-TOP",
       "specifications": {
         "type": "RACK",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "THRU output",
           "Power meter",
@@ -851,7 +851,7 @@
       "description": "2x Harting, 6x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "THRU output",
           "All outputs have their own RCD"
@@ -866,7 +866,7 @@
       "description": "1x CEE, 1x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -881,7 +881,7 @@
       "description": "12x 16A Wago outputs, snap-in terminal",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "THRU output",
           "E-STOP link"
@@ -896,7 +896,7 @@
       "description": "4x CEE, 2x Socapex",
       "specifications": {
         "type": "RACK",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -911,7 +911,7 @@
       "description": "2x Socapex, 12x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "63A",
+        "input": "63A",
         "features": [
           "Power meter",
           "All outputs have their own RCD"
@@ -926,7 +926,7 @@
       "description": "3x CEE",
       "specifications": {
         "type": "RACK",
-        "category": "125A",
+        "input": "125A",
         "features": [
           "Power meter"
         ]
@@ -940,7 +940,7 @@
       "description": "2x Harting, 1x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "THRU output",
           "All outputs have their own RCD"
@@ -955,7 +955,7 @@
       "description": "2x CEE, 2x Schuko German",
       "specifications": {
         "type": "RACK",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "THRU output",
           "All outputs have their own RCD"
@@ -970,7 +970,7 @@
       "description": "4x Schuko German, 8x EURO IEC 10A",
       "specifications": {
         "type": "RACK",
-        "category": "16A",
+        "input": "16A",
         "features": [
           "THRU output"
         ]
@@ -984,7 +984,7 @@
       "description": "7x Socket T23 Swiss",
       "specifications": {
         "type": "RACK",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "THRU output"
         ]
@@ -998,7 +998,7 @@
       "description": "4x Schuko German, 2x EURO IEC 10A",
       "specifications": {
         "type": "RACK",
-        "category": "32A",
+        "input": "32A",
         "features": [
           "THRU output",
           "1x MCB C10/1",

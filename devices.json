@@ -892,7 +892,7 @@
       "id": "922748-PDU324C2SXPR-3U",
       "name": "PDU324C2SXPR-3U",
       "modelPath": "/PDUViewer/products/922748-PDU324C2SXPR-3U.glb",
-      "thumbnail": "/PDUViewer/products/9SRS_power.webp",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
       "description": "4x CEE, 2x Socapex",
       "specifications": {
         "type": "RACK",
@@ -907,7 +907,7 @@
       "id": "922632-PDU632SX12SCPR-3U",
       "name": "PDU632SX12SCPR-3U",
       "modelPath": "/PDUViewer/products/922632-PDU632SX12SCPR-3U.glb",
-      "thumbnail": "/PDUViewer/products/9SRS_power.webp",
+      "thumbnail": "/PDUViewer/products/SRS_power.webp",
       "description": "2x Socapex, 12x Schuko German",
       "specifications": {
         "type": "RACK",
